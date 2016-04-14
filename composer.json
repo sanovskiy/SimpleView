@@ -18,7 +18,7 @@
       "name": "Igor Sharendo",
       "email": "axe_dream@list.ru",
       "role": "Developer"
-    },
+    }
   ],
   "autoload": {
     "files": ["lib/bootstrap.php"]
