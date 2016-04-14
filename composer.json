@@ -1,0 +1,29 @@
+{
+  "name": "sanovskiy/simple-view",
+  "description": "Simple View",
+  "version": "1.0.0",
+  "keywords": [
+    "render"
+  ],
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Pavel Terentyev",
+      "email": "pavel.terentyev@gmail.com",
+      "homepage": "http://terentyev.info",
+      "role": "Developer"
+    },
+    {
+      "name": "Igor Sharendo",
+      "email": "axe_dream@list.ru",
+      "role": "Developer"
+    },
+  ],
+  "autoload": {
+    "files": ["lib/bootstrap.php"]
+  },
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
