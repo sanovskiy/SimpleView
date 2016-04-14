@@ -17,5 +17,7 @@
  *
  */
 
-require __DIR__ . DIRECTORY_SEPARATOR . 'SimpleView' . DIRECTORY_SEPARATOR . 'Autoload.php';
-SimpleView_Autoload::register();
+class SimpleView_Exception extends Exception
+{
+
+}
